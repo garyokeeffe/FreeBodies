@@ -1,8 +1,6 @@
 # Overview
 This library contains code for simulating the motion of a system of N free-bodies interacting with each-other in accordance to some power-law. Specifically the scripts BasicErrorPlot.py, and MonteCarlo.py, were used to simulate the motion of the free-bodies in our paper titled: "Ideas from bounded confidence theory applied to dynamical networks of interacting free-bodies" which was submitted for publication to the academic journal "Frontiers in Physics" (by Gary O'Keeffe, and Ioannis Dassios).
 
-[![DOI](https://zenodo.org/badge/200426105.svg)](https://zenodo.org/badge/latestdoi/200426105)
-
 ### BasicErrorPlot.py
 Contains the code used to generate the plots shown in Figure 3 in our paper.
 
